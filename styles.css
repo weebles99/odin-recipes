@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(89, 201, 165);
+    color: rgb(35, 57, 91);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+    background-color: rgb(216, 30, 91);
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
