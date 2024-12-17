@@ -1,17 +1,37 @@
+*, ::before,
+::after {
+    box-sizing: border-box;
+}
+
+
+.title1 {
+    color: #FB5607;
+}
+
+.title2 {
+    color: #FB5607;
+}
+
+.title3 {
+    color: #FB5607;
+}
+
+.title4 {
+    color: #FB5607;
+}
+
 body {
-    background-color: rgb(89, 201, 165);
-    color: rgb(35, 57, 91);
+    background-color: #003459;
+    color: #CF1259;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
-button {
-    background-color: rgb(216, 30, 91);
-    color: white;
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 8px;
+a:link {
+    color: #5EB1BF;
+
+}
+
+a:hover {
+    color: #7AE582;
 }
